@@ -1,5 +1,4 @@
-# DavTest version 1.0
-Copyright 2010 Chris Sullo
+# davtest
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
